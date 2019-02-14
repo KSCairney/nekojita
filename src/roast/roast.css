@@ -1,0 +1,17 @@
+.price {
+  font-size: larger;
+  color: rgb(154, 0, 0);
+}
+
+p, .fonty {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.featuredRoast .fonty {
+  margin-top: 20px;
+  color: rgb(154, 0, 0);
+}
+
+.beans img {
+  width: 90%;
+}

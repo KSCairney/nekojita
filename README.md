@@ -1,0 +1,1 @@
+This was my attempt to build a simple ecommerce page utilizing react. Presently no payment method has been setup, and the contact box doesn't send anywhere but the console.

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Peter Cat",
+    "roast": "Medium Roast",
+    "description": "A dark brown roast with a carmelly flavor. Made from Indonesian beans.",
+    "price": "17",
+    "photo": "https://i.imgur.com/VcsUXr4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Keyboard Cat",
+    "roast": "Blond Roast",
+    "description": "A light brown roast with a tangy flavor. Made from Hawaiian beans.",
+    "price": "17",
+    "photo": "https://i.imgur.com/VcsUXr4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Major TomCat",
+    "roast": "Dark Roast",
+    "description": "A black spacey roast with a toasty flavor. Made from Ethiopean beans.",
+    "price": "17",
+    "photo": "https://i.imgur.com/VcsUXr4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PKD Cat",
+    "roast": "Dark Roast",
+    "description": "A black roast with a strong herbal flavor. Made from Hawaiian beans.",
+    "price": "17",
+    "photo": "https://i.imgur.com/VcsUXr4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Violin Cat",
+    "roast": "Medium Roast",
+    "description": "A brown roast with a nutty flavor, carrying a hint of cinnamon. Made from Ethiopean beans.",
+    "price": "17",
+    "photo": "https://i.imgur.com/VcsUXr4.jpg"
+  }
+]
